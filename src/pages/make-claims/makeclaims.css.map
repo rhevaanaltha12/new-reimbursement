@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,WAAW,CAAC;EACV,OAAO,EAAE,IAAI;EACb,gBAAgB,EAAE,OAAO;EACzB,IAAI,EAAE,CAAC;CAQR;;AAXD,AAIE,WAJS,CAIT,UAAU,CAAC;EACT,IAAI,EAAE,CAAC;CAKR;;AAVH,AAMI,WANO,CAIT,UAAU,CAER,cAAc,CAAC;EACb,OAAO,EAAE,IAAI;EACb,OAAO,EAAE,IAAI;CACd",
+    "sources": [
+        "makeclaims.scss"
+    ],
+    "names": [],
+    "file": "makeclaims.css"
+}

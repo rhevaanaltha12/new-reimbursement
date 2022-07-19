@@ -1,0 +1,60 @@
+.claimsPending {
+  background-color: #fff;
+  padding: 1rem;
+  margin-bottom: 2rem;
+  border-radius: 15px;
+  .title {
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    color: #2b3674;
+    margin-bottom: 1rem;
+  }
+
+  .cellStatus {
+    padding: 5px;
+    border-radius: 5px;
+
+    &.Pending {
+      color: #ee5d50;
+      background-color: #ee5d502c;
+    }
+    &.Approved {
+      color: #05cd99;
+      background-color: #05cd982b;
+    }
+  }
+
+  .actionCell {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    .approveButton {
+      padding: 8px 20px;
+      font-family: "DM Sans";
+      font-style: normal;
+      font-weight: 700;
+      font-size: 14px;
+      text-align: center;
+      letter-spacing: -0.02em;
+      background-color: #05cd99;
+      color: #ffffff;
+      border-radius: 16px;
+      cursor: pointer;
+    }
+    .deleteButton {
+      padding: 8px 20px;
+      font-family: "DM Sans";
+      font-style: normal;
+      font-weight: 700;
+      font-size: 14px;
+      text-align: center;
+      letter-spacing: -0.02em;
+      background-color: #ee5d50;
+      color: #ffffff;
+      border-radius: 16px;
+      cursor: pointer;
+    }
+  }
+}

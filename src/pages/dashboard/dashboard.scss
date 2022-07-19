@@ -1,0 +1,14 @@
+.dashboard {
+  display: flex;
+  background-color: #f4f7fe;
+  flex: 1;
+  .container {
+    flex: 2;
+    .containerItem {
+      display: flex;
+    }
+    .charts {
+      padding: 1rem;
+    }
+  }
+}

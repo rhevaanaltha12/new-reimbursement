@@ -1,0 +1,69 @@
+.claimsHistory {
+  background-color: #fff;
+  padding: 1rem;
+  margin-bottom: 2rem;
+  border-radius: 15px;
+}
+
+.claimsHistory .title {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  color: #2b3674;
+  margin-bottom: 1rem;
+}
+
+.claimsHistory .cellStatus {
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.claimsHistory .cellStatus.Pending {
+  color: #ee5d50;
+  background-color: #ee5d502c;
+}
+
+.claimsHistory .cellStatus.Approved {
+  color: #05cd99;
+  background-color: #05cd982b;
+}
+
+.claimsHistory .actionCell {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 2rem;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.claimsHistory .actionCell .approveButton {
+  padding: 8px 20px;
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: -0.02em;
+  background-color: #05cd99;
+  color: #ffffff;
+  border-radius: 16px;
+  cursor: pointer;
+}
+
+.claimsHistory .actionCell .deleteButton {
+  padding: 8px 20px;
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: -0.02em;
+  background-color: #ee5d50;
+  color: #ffffff;
+  border-radius: 16px;
+  cursor: pointer;
+}
+/*# sourceMappingURL=claimshistory.css.map */

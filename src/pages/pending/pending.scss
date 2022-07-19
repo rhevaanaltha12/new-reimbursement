@@ -1,0 +1,12 @@
+.pending {
+  display: flex;
+  background-color: #f4f7fe;
+  flex: 1;
+  .container {
+    flex: 2;
+    .containerItem {
+      display: flex;
+      padding: 1rem;
+    }
+  }
+}

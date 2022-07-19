@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,WAAW,CAAC;EACV,gBAAgB,EAAE,IAAI;EACtB,OAAO,EAAE,IAAI;EACb,aAAa,EAAE,IAAI;EACnB,aAAa,EAAE,IAAI;CAUpB;;AAdD,AAKE,WALS,CAKT,MAAM,CAAC;EACL,WAAW,EAAE,SAAS;EACtB,UAAU,EAAE,MAAM;EAClB,WAAW,EAAE,GAAG;EAChB,SAAS,EAAE,IAAI;EACf,KAAK,EAAE,OAAO;EACd,aAAa,EAAE,IAAI;EACnB,UAAU,EAAE,MAAM;CACnB",
+    "sources": [
+        "claimsform.scss"
+    ],
+    "names": [],
+    "file": "claimsform.css"
+}
